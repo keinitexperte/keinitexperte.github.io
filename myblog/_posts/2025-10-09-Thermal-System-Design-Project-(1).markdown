@@ -8,7 +8,7 @@ description: Because of GWP(Global Warming Potential)
 img: /posts/20251009/OzoneHoleRecovery.jpg
 tags: [thermal system design project]
 author: Yongchan Cho
-github:  YC-cho
+github:  keinitexperte
 mathjax: yes
 ---
 In the 2024 Autumn Semester, I had a project about choosing a future refrigerant and designing the thermal cycle of a refrigerator. The project's goal was selecting a future refrigerant while considering ODP(Ozone Depletion Potential) and GWP(Global Warming Potential). As you know, [R-134a](https://en.wikinpedia.org/wiki/1,1,1,2-Tetrafluoroethane) is the general refrigerant, but there are some reasons *Not to Use It*.
