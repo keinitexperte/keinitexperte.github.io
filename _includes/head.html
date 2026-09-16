@@ -65,4 +65,21 @@
 	{% if page.layout == 'post' %}
 	<link rel="stylesheet" href="{{ relativebase }}assets/css/highlighter/{{ site.highlight_theme }}.css">
 	{% endif %}
+
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard-dynamic-subset.min.css">
+
+  <style>
+    body,
+    h1, h2, h3, h4, h5, h6,
+    button, input, textarea, select {
+      font-family: "Pretendard", sans-serif;
+    }
+
+    .page-content {
+      font-family: "Pretendard", sans-serif;
+      line-height: 1.8;
+    }
+  </style>
+
 </head>
