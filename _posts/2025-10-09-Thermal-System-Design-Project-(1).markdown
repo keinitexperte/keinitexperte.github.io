@@ -4,7 +4,7 @@ read_time: true
 show_date: true
 title: Why we Stop Using the Refrigerant, R-134a?
 date:   2025-10-09 23:05:20 +0900
-description: Because of GWP(Global Warming Potential)
+description: Because of F-gas Regulation and Global Warming, we need to change our refrigerant
 img: /posts/20251009/OzoneHoleRecovery.jpg
 tags: [thermal_system_design]
 author: Yongchan Cho
