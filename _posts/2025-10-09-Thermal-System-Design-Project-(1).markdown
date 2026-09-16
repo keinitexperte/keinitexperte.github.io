@@ -6,7 +6,7 @@ title: Why we Stop Using the Refrigerant, R-134a?
 date:   2025-10-09 23:05:20 +0900
 description: Because of GWP(Global Warming Potential)
 img: /posts/20251009/OzoneHoleRecovery.jpg
-tags: [thermal system design project]
+tags: [thermal_system_design]
 author: Yongchan Cho
 github:  keinitexperte
 mathjax: yes
